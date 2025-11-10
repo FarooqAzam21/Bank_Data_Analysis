@@ -25,7 +25,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("<h1 class='main-title'>💼 Accounting App — Gen 1</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>Accounting App — Gen 1</h1>", unsafe_allow_html=True)
 st.write("### Upload your transaction CSV to generate Profit & Loss and Schedule C Tax Reports")
 
 st.divider()
