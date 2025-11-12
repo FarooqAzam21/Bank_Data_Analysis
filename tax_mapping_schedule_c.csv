@@ -2,14 +2,25 @@ category,tax_line_code,tax_line_name,deductibility_pct
 Meals,EXP01,Meals (50%),50
 Office Supplies,EXP02,Office Expenses,100
 Travel,EXP03,Travel Expenses,100
-Software Subscription,EXP04,Other Expenses,100
-Client Payment,INC01,Income,100
+Software Subscription,EXP04,Software & Online Tools,100
+Client Payment,INC01,Business Income,100
 Entertainment,EXP05,Entertainment (Non-Deductible),0
 Groceries,EXP06,Office Supplies,100
-Fuel,EXP07,Car & Truck Expenses,100
+Fuel,EXP07,Vehicle & Fuel Expenses,100
 Shipping,EXP08,Postage & Delivery,100
-Advertising,EXP09,Advertising,100
+Advertising,EXP09,Advertising & Promotion,100
 Design Tool,EXP10,Design & Creative,100
-Communication,EXP11,Utilities,100
+Communication,EXP11,Internet & Communication,100
 E-commerce Fees,EXP12,Bank & Platform Fees,100
+Electricity Bill,EXP13,Utilities - Electricity,100
+Gas Bill,EXP14,Utilities - Gas,100
+Internet & Landline,EXP15,Utilities - Internet & Phone,100
+Mobile Bill,EXP16,Utilities - Mobile,100
+Bank Charges,EXP17,Bank Charges,100
+Service Fee,EXP18,Service Charges,100
+Salary Income,INC02,Salary Income,100
+Interest Income,INC03,Interest Income,100
+Business Income,INC04,Business Income,100
+Charity,EXP19,Charitable Contributions,100
+Medical Expense,EXP20,Medical & Health,100
 Uncategorized,EXP99,Uncategorized,100
